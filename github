@@ -16,7 +16,6 @@ public class Person implements Cloneable {
         }
     }
 
-    // Optional: Getters and setters if needed
     public String getName() { return name; }
     public int getAge() { return age; }
 }
